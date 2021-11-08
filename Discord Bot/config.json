@@ -1,0 +1,8 @@
+{
+    "prefix": "!",
+    "token": "your_bot_token",
+    "memberRole": "your_member_role_id",
+    "alertsChannel": "your_alert_channel_id",
+    "websiteDomain": "yourwebsite.com",
+    "coinbaseCheckoutLink": "your_coinbase_commerce_checkout_link"
+}

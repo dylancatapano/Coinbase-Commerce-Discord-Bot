@@ -1,0 +1,14 @@
+{
+  "name": "coinbase_commerce_discord_bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that utilizes the Coinbase Commerce API to allow purchasing with Bitcoin via Discord.",
+  "main": "CoinbaseCommerceDiscordBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Catapano",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
